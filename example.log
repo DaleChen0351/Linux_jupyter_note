@@ -1,0 +1,8 @@
+INFO:root:Running "add" with arguments (3, 3)
+INFO:root:Running "add" with arguments (4, 5)
+INFO:root:Running "sub" with arguments (10, 5)
+INFO:root:Running "sub" with arguments (20, 10)
+ERROR:root:Invalid alias: The name clear can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name more can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name less can't be aliased because it is another magic command.
+ERROR:root:Invalid alias: The name man can't be aliased because it is another magic command.
